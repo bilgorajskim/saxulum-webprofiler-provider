@@ -1,7 +1,7 @@
 saxulum webprofiler provider
 ===========================
 
-This is a Silex 2 compatible version of [saxulum/saxulum-webprofiler-provider][1]
+This is a Silex 2 compatible version of [saxulum/saxulum-webprofiler-provider][2]
 
 **It does not support Doctrine ODM**
 
